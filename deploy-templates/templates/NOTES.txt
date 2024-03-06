@@ -1,0 +1,1 @@
+1. Application spring-test-app has been successfully deployed!!
